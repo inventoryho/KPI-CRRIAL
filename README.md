@@ -1,2 +1,2 @@
-# KPI_CRRIAL
+# KPI-CRRIAL
 Collect KPI CRRIAL
